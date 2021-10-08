@@ -1,1 +1,1 @@
-Template per l'analisi tecnica e funzionale
+Template per l'analisi tecnica e funzionale da pubblicare su Github Pages
