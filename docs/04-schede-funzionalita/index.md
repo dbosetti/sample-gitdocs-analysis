@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Analisi di dominio
-nav_order: 6
+title: Schede funzionalità
+nav_order: 4
 has_children: true
 ---

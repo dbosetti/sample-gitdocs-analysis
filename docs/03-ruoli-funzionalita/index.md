@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Ruoli e funzionalità
-nav_order: 4
-has_children: false
+nav_order: 3
 ---
 
 ## Ruoli

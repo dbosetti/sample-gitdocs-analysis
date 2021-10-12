@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Entità Relazioni (ER)
-parent: Analisi di dominio
-nav_order: 1
+nav_order: 5
 ---
 
 ## Template base

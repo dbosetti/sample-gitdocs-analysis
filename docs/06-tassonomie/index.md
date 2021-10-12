@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Tassonomie
-parent: Analisi di dominio
-nav_order: 2
+nav_order: 6
 ---
 
 Segue il censimento delle tassonomie usate.
