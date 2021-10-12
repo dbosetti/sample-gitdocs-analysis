@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Glossario
+parent: Analisi di dominio
 nav_order: 3
 ---
 
